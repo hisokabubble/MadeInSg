@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "715024362597",
+    "firebase_url": "https://madeinsg-c79f2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madeinsg-c79f2",
+    "storage_bucket": "madeinsg-c79f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715024362597:android:a4a8fcf8ae820de7852a8c",
+        "android_client_info": {
+          "package_name": "com.MadeInSG.SingaporeZoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb9uO6tCZEFmT3O3nIbW7IGnqf0oKJ-cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715024362597:android:aefd26b1a32a9732852a8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.MadeInSG"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb9uO6tCZEFmT3O3nIbW7IGnqf0oKJ-cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
