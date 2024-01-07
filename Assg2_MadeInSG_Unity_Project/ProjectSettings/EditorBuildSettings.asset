@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UIMainMenu.unity
     guid: a6c9290c62cb053498820f907aebd7a8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Enclosed.unity
     guid: 44b6c007313624e49b15fe48f019a575
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/FreeRoam Bear.unity
     guid: dc1115264cf9d484cb6dce230ccf2072
   m_configObjects:

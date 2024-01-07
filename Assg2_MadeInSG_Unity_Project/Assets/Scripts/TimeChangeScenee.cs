@@ -26,7 +26,7 @@ public class TimeChangeScenee : MonoBehaviour
         if (Timer <= 0)
         {
             //Change scene when timer hits 0
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(0);
         }
     }
 }
