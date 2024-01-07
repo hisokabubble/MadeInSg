@@ -247,8 +247,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter Email
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 52587df78d176954892b7bdfd33d2b13, type: 2}
-  m_sharedMaterial: {fileID: -2330774343582243873, guid: 52587df78d176954892b7bdfd33d2b13, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 540ea7cf6802244418199e842c019d40, type: 2}
+  m_sharedMaterial: {fileID: 3771369588208391693, guid: 540ea7cf6802244418199e842c019d40, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2058,8 +2058,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter Password
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 52587df78d176954892b7bdfd33d2b13, type: 2}
-  m_sharedMaterial: {fileID: -2330774343582243873, guid: 52587df78d176954892b7bdfd33d2b13, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 540ea7cf6802244418199e842c019d40, type: 2}
+  m_sharedMaterial: {fileID: 3771369588208391693, guid: 540ea7cf6802244418199e842c019d40, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
