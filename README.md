@@ -18,6 +18,10 @@ Goal of the game is to collect as many fishes as possible while avoiding the bea
 Some bugs:
 The bear's navmesh AI is buggy due to the terrain, so the tracking and chasing of player is not exactly the best.
 The bear lacks a running animation.
+The Point system works only in the Unity. And does not transport to Firebase.
+The initial plan was to log in with an authenticated account, and the points will be stored under that account.
+Those fish points would then be used to buy merchandise in the website.
+But we were unable to pull it off despite the good idea.
 
 Platform required:
 Just a VR Headset.
